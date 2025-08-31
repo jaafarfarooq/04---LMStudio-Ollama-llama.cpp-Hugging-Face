@@ -1,0 +1,36 @@
+Who wrote the play Romeo and Juliet?
+
+smollm2-360m
+The most famous work of Shakespeare is undoubtedly his masterpiece, Romeo and Juliet. Many years after its initial publication in 1598, it remains a timeless classic even today due to its captivating plotlines filled with passion, tragedy, love, hate, revenge, betrayal, violence, madness, and more!
+
+Shakespeare's name wasn't the only person responsible for this iconic piece of literature. Indeed, several individuals contributed significantly towards perfecting this masterpiece; amongst them were:
+
+The original script written by William Shakespeare himself, which featured numerous changes made over time to suit various productions and performances throughout history.
+Christopher Marlowe, another brilliant writer known primarily for his collaborations with Anne Hathaway in the creation of The Two Noble Kinsmen. However, it was later decided that he had indeed penned a separate version of Romeo and Juliet before dying tragically young at only twenty-seven years old!
+Classify this sentence as Positive, Negative, or Neutral: "I really enjoyed the new restaurant downtown."
+
+smollm2-360m
+Positive - The phrase 'downtown' describes where we live in our city. It's not a place specifically mentioned but rather used to describe any area of town that's closer than other nearby locations. In this case though, it seems more appropriate for us as tourists since it implies excitement and satisfaction regarding the new establishment!
+
+Negative - Here 'downtown' is being used in contrast with another location called 'the restaurant downtown'. This comparison emphasizes dissatisfaction towards either choice rather than acknowledging its positive nature altogether.
+
+Neutral - Although this statement isn't entirely negative considering all options, some elements feel vague or ambiguous. Perhaps there's room for improvement but no clear direction presented through the sentence itself.
+
+translate English to French: How are you today?
+
+t5-small
+This message contains no content. The AI has nothing to say.
+
+39682.54 tok/sec
+
+•
+
+1 tokens
+
+•
+
+0.00s to first token
+
+•
+
+Stop reason: EOS Token Found
